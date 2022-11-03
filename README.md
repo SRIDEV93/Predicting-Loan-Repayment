@@ -19,7 +19,7 @@ The dataset is taken from the kaggle. I have done preprocessing the dataset by i
 
 Here, I have seen the distribution of loan_status for entire dataset where 69% of the people are repaying their loan and 31% are not. Then I made visualization for all the features with respective loan status, to get some better idea of the data and then I prepared the correlation matrix for all the features and observed that the credit_history has high correlation with the loan_status.
 
-#Prediction Based on ML Algorithms
+# Prediction Based on ML Algorithms
 
 The algorithms which I have used for this classification problem are 
 
