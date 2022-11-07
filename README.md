@@ -1,4 +1,4 @@
-# Predicting-Loan-Repayment
+# Predicting-Loan-Repayment - Small Dataset
 
 The purpose of this project is to categorise loan applicants more accurately based on their ability to repay the loan. Moreover, it will look into the varaibles that may affect how quickly borrowers return their loans. Exploring some of the most well-known ML models will help achieve this. Finding patterns to employ on new loan takers can be done by using Machine Learning on data from prior loan borrowers. The Objective of this study is to compare the ML models that have been used in order to determine th ebest models for the data being utilised, as well as to make futire researchers job easier.
 
